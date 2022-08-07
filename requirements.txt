@@ -1,4 +1,4 @@
-telebot
+pyTelegramBotAPI
 requests
 bs4
 html5lib
